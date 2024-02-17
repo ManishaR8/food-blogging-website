@@ -12,7 +12,7 @@ const CardLayer = ({imgSrc , head }) => {
             <p className='text-[#444957] font-openSans xl:w-[312px] lg:w-[312px] md:w-[312px] sm:w-[235px] w-[235px] '>
                 Plorem Ipsum is simply dummy text of the printing and typesetting. lorem Ipsum has been the industry's standard....
             </p>
-            <button className='text-[#424961] border-4 rounded-full w-36'>Read More</button>
+            <button className='text-[#424961] border-[#424961] border-2 rounded-full w-36'>Read More</button>
             </div>
            
         </div>
