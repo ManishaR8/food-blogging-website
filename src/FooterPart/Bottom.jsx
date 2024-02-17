@@ -2,7 +2,6 @@ import React from 'react'
 import foodTruck from '../assets/foodTruck.png';
 import Contact from './Contact';
 import MorePart from './MorePart';
-import SocialLinks from './SocialLinks';
 
 const Bottom = () => {
   return (
@@ -17,7 +16,6 @@ const Bottom = () => {
             
             <Contact />
             <MorePart />
-            <SocialLinks />
          </div>
     </div>
   )
